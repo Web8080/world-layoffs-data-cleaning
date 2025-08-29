@@ -1,4 +1,4 @@
-Here’s a clean, well-structured **README.md** for your project:
+
 
 ````markdown
 # World Layoffs Data Cleaning
